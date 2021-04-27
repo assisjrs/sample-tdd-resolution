@@ -1,2 +1,2 @@
-# sample-tdd-resolution
-Projeto com a resolução da aula de tdd
+# sample-tdd
+Projeto básico para ensinar TDD
